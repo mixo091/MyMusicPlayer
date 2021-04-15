@@ -9,7 +9,7 @@ const title = document.querySelector('#title')
 const cover =document.querySelector('#cover')
 
 //songs 
-const songs = ['AfterHours','CallOutMyName','ChicagoFreestyle',
+const songs = ['AfterHours','CallOutMyName','EverythingIWanted','ChicagoFreestyle',
 'ComeHome','Crash&Burn','Eazy','FromTime','GotItOnMe','IMeanIt','Lovely','MeMyself&I'
 ,'Moana','TeenageFever' ]
 
